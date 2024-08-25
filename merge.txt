@@ -6,4 +6,8 @@ update from local computer
 modification from server
 modified and committed in local
 
-version 3 remote
+
+version 3 merged
+
+
+
